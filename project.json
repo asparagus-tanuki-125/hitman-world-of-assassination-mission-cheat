@@ -1,0 +1,22 @@
+{
+  "name": "hitman-world-of-assassination-mission-planner",
+  "displayName": "HITMAN World of Assassination Mission Planner",
+  "programType": "mission-planner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Mission notes",
+    "Equipment groups",
+    "Route planning"
+  ],
+  "topics": [
+    "hitman-world-of-assassination-mission-planner",
+    "hitman-world-of-assassination-tools",
+    "hitman-world-of-assassination-menu",
+    "hitman-world-of-assassination-settings",
+    "hitman-world-of-assassination-configs",
+    "hitman-world-of-assassination-mission-notes",
+    "hitman-world-of-assassination-equipment-groups"
+  ]
+}
